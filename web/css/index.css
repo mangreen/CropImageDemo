@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+header h1{
+    font-size:12pt;
+    color: #fff;
+    background-color: #1BA1E2;
+    padding: 20px;
+}
+
+canvas{
+	cursor: crosshair;
+  	border: 1px solid #999999;
+}
+
+img{
+	display: none;
+}
